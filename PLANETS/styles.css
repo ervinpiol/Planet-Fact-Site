@@ -254,7 +254,7 @@ h1 {
 .data_style {
   width: 100%;
   border: 1px solid var(--translucent-border);
-  padding: 24px 0px 28px 24px;
+  padding: 24px 0px 24px 24px;
 }
 
 .data_style p {
